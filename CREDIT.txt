@@ -1,0 +1,5 @@
+Original Project: https://www.curseforge.com/minecraft/mc-mods/betterp2p
+
+Credit: 
+  LasmGratel on Github
+  lacuda55 on Curseforge
