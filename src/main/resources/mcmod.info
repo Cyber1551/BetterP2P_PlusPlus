@@ -1,11 +1,11 @@
 [
     {
-        "modid":"betterp2p_plusplus",
-        "name":"Better P2P++",
+        "modid":"enhancedp2p",
+        "name":"EnhancedP2P",
         "description":"An improved fork of BetterP2P",
         "mcversion":"${mcversion}",
         "version": "${version}",
-        "url":"https://github.com/Cyber1551/BetterP2P_PlusPlus",
+        "url":"https://github.com/Cyber1551/EnhancedP2P",
         "updateUrl":"",
         "authorList":[
          "AlgorithmX2"
