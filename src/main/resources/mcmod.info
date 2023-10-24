@@ -1,6 +1,6 @@
 [
     {
-        "modid":"enhancedp2p",
+        "modid":"betterp2p",
         "name":"EnhancedP2P",
         "description":"An improved fork of BetterP2P",
         "mcversion":"${mcversion}",
